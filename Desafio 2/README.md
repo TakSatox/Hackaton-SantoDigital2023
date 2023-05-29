@@ -14,12 +14,12 @@ Rotas que podem ser utilizadas:
 
 
 ## :wrench: Tecnologias utilizadas
-*VScode
-*Docker
-*SQLAlchemy
-*Pydantic
-*Starlette
-*Python Built-in: calendar
+* VScode
+* Docker
+* SQLAlchemy
+* Pydantic
+* Starlette
+* Python Built-in: calendar
 
 ## :rocket: Rodando o projeto
 Para utilizar este projeto, é necessário ter o banco de dados criado no desafio 1 e configurar o arquivo database.py para adequar-se ao banco de dados. A partir daqui há dois caminhos: utilizando ou não container do docker. 
