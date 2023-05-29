@@ -5,12 +5,12 @@ Nesse projeto, aproveitando o banco de dados contido no container que foi criado
 
 Rotas que podem ser utilizadas:
 
-*http://127.0.0.1:8000/products -> Get em todos os produtos ou Post.
-*http://127.0.0.1:8000/products/{id} -> Get em um produto específico, Put ou Delete.
-*http://127.0.0.1:8000/sales/top-products/{category} -> Top 10 produtos na categoria específica.
-*http://127.0.0.1:8000/sales/sales/best-customer -> Cliente com maior número de pedidos.
-*http://127.0.0.1:8000/busiest_month -> Mês com maior valor total de vendas.
-*http://127.0.0.1:8000/top-region-sellers -> Regiões com quantidade de vendas acima da média.
+* http://127.0.0.1:8000/products -> Get em todos os produtos ou Post.
+* http://127.0.0.1:8000/products/{id} -> Get em um produto específico, Put ou Delete.
+* http://127.0.0.1:8000/sales/top-products/{category} -> Top 10 produtos na categoria específica.
+* http://127.0.0.1:8000/sales/sales/best-customer -> Cliente com maior número de pedidos.
+* http://127.0.0.1:8000/busiest_month -> Mês com maior valor total de vendas.
+* http://127.0.0.1:8000/top-region-sellers -> Regiões com quantidade de vendas acima da média.
 
 
 ## :wrench: Tecnologias utilizadas
